@@ -356,10 +356,16 @@ img{
         
         margin-bottom: 50px;
     }
+    .container > h1{
+        text-aling:center;
+    }
 
     .unidadesp{
         position: relative;
         left: -10px;
+    }
+    .container > h1{
+        text-aling:center;
     }
 }
 
