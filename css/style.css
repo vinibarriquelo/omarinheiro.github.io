@@ -152,7 +152,7 @@ img{
 }
 
 .sobre-img{
-    margin: 20px;
+    margin: 20px auto;
 }
 
 @media(max-width:720px){
