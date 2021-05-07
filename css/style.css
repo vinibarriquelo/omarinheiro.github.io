@@ -72,9 +72,10 @@ img{
     color:#F58514;
 }
 
-@media(max-width:720px){
+@media(max-width:768px){
     .intro{
         margin-left: 20px;
+        text-align: center;
     }
 }
 
@@ -155,9 +156,9 @@ img{
     margin: 20px auto;
 }
 
-@media(max-width:720px){
+@media(max-width:768px){
     .sobre-info{
-        margin-left: 20px;
+        margin: 20px auto;
         text-align: center;
     }
 }
@@ -280,7 +281,7 @@ img{
     font-style: italic;
 }
 
-@media(max-width:720px){
+@media(max-width:768px){
     .cardapio{
     
         text-align: center;
@@ -349,7 +350,10 @@ img{
     background-color: #F58514;
 }
 
-@media(max-width:720px){
+@media(max-width:768px){
+    .container > h1{
+        text-align:center;
+    }
     .unidaderj{
         
         margin-bottom: 50px;
