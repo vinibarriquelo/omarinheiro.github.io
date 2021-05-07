@@ -166,6 +166,11 @@ img{
     .sobre-info{
         margin-left: 20px;
     }
+    .sobre-info-qualidade h2::after{
+        content: "";
+        width: 0;
+        height: 0;
+    }
 }
 
 
