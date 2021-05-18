@@ -52,7 +52,7 @@ img{
 .menu-nav ul li a{
     font-size: 1.56em;
     color: #F58514;
-    transition: ease-in-out .2s;
+    
 }
 
 .menu-nav ul li a:hover{
