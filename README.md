@@ -9,4 +9,8 @@ Esse é um site criado com objetivo de praticar meus conhecimentos em HTML5 e CS
 	 - HTML5 semântico
 	 - CSS3 (Flexbox,responsividade)
 
+[Wireframe + Design - Figma](https://www.figma.com/file/pGS7NA00HuRZW49tAyh5Fa/O-marinheiro?node-id=0%3A1)
+
+
+
 Espero que goste :)
